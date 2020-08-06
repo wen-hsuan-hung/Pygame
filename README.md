@@ -1,2 +1,2 @@
-# Computer-Programming
+# Python Project
 pygame 
