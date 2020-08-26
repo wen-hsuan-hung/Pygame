@@ -1,11 +1,9 @@
 # Python Project
-pygame 
-遊戲連結：https://drive.google.com/drive/folder...
-第四組 kung_fu_otter.zip打開 用python跑main.py 就可以玩
-(可能要pip install一些東西，例如pygame)
+
+遊戲連結：https://drive.google.com/drive/folders/1BfffyDEadNjeUrZMr4E9D6TrAUiLE92u
 
 
-使用者說明
+使用者說明:
 
 玩家以上下左右鍵控制小陳時中的移動，點擊空白鍵發射防疫武器，依照關卡不同，會發射出不同武器。遊戲總共分為五個關卡，發射防疫武器擊中蝙蝠或病毒即可得分，得分達標即可進入到下一關，而遊戲會隨關卡增加難度。玩家最初有兩條命，每過一關新增一條命，若是陳時中被攻擊對象觸碰到臉部以上部位則減少一條命，若碰到臉部以下部位不會減少一條命。三條命都用完即算遊戲挑戰失敗，可選擇重新開始遊戲，若是五關都通過即算成功，獲得勝利！
 
