@@ -1,6 +1,7 @@
 # Python Project
 
 遊戲連結：https://drive.google.com/drive/folders/1BfffyDEadNjeUrZMr4E9D6TrAUiLE92u
+youtube 介紹影片連結：https://www.youtube.com/watch?v=sKEkEI_Ptj4&t=1s
 
 
 使用者說明:
