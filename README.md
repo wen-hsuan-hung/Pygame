@@ -1,4 +1,4 @@
-# Python Pygame Project 病毒逆時鐘
+# Python Pygame Projec Virus Attack
 
 Game Link: https://drive.google.com/drive/folders/1BfffyDEadNjeUrZMr4E9D6TrAUiLE92u
 youtube introduction video: https://www.youtube.com/watch?v=sKEkEI_Ptj4&t=1s
